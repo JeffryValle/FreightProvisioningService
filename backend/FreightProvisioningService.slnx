@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="FreightProvisioningService.API/FreightProvisioningService.API.csproj" />
+  <Project Path="FreightProvisioningService.Application/FreightProvisioningService.Application.csproj" />
+  <Project Path="FreightProvisioningService.Domain/FreightProvisioningService.Domain.csproj" />
+  <Project Path="FreightProvisioningService.Infrastructure/FreightProvisioningService.Infrastructure.csproj" />
+</Solution>
